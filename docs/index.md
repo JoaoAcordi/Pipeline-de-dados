@@ -1,3 +1,3 @@
 # Pipeline Medalhão - Filmes (Databricks + Delta)
 
-Instruções no docs/
+Veja os notebooks e instruções.

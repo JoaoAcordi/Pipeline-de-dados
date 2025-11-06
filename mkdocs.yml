@@ -1,0 +1,8 @@
+site_name: Pipeline Medalhão - Filmes (Databricks + Delta)
+nav:
+  - Início: index.md
+  - Pipeline: pipeline.md
+  - Delta: delta.md
+  - Modelo ER: modelo_er.md
+theme:
+  name: material

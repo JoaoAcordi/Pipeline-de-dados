@@ -1,0 +1,101 @@
+Rank,Title,Year,Genre
+1,The Shawshank Redemption,1994,Drama
+2,The Godfather,1972,Crime|Drama
+3,The Dark Knight,2008,Action|Crime|Drama
+4,The Godfather: Part II,1974,Crime|Drama
+5,12 Angry Men,1957,Crime|Drama
+6,The Lord of the Rings: The Return of the King,2003,Adventure|Drama|Fantasy
+7,Schindler's List,1993,Biography|Drama|History
+8,The Lord of the Rings: The Fellowship of the Ring,2001,Adventure|Drama|Fantasy
+9,Inception,2010,Action|Sci-Fi|Thriller
+10,Star Wars: Episode V – The Empire Strikes Back,1980,Action|Adventure|Sci-Fi
+11,The Lord of the Rings: The Two Towers,2002,Adventure|Drama|Fantasy
+12,Fight Club,1999,Drama
+13,Forrest Gump,1994,Drama|Romance
+14,The Matrix,1999,Action|Sci-Fi
+15,Goodfellas,1990,Biography|Crime|Drama
+16,One Flew Over the Cuckoo's Nest,1975,Drama
+17,Se7en,1995,Crime|Drama|Mystery
+18,Seven Samurai,1954,Action|Drama
+19,City of God,2002,Crime|Drama
+20,Life Is Beautiful,1997,Comedy|Drama|Romance
+21,The Silence of the Lambs,1991,Crime|Drama|Thriller
+22,It's a Wonderful Life,1946,Drama|Fantasy|Family
+23,The Usual Suspects,1995,Crime|Mystery|Thriller
+24,Léon: The Professional,1994,Action|Crime|Drama
+25,Spirited Away,2001,Animation|Adventure|Family
+26,Saving Private Ryan,1998,Drama|History|War
+27,The Green Mile,1999,Crime|Drama|Fantasy
+28,Parasite,2019,Comedy|Drama|Thriller
+29,Interstellar,2014,Adventure|Drama|Sci-Fi
+30,American History X,1998,Crime|Drama
+31,City Lights,1931,Comedy|Drama|Romance
+32,The Lion King,1994,Animation|Adventure|Drama
+33,Back to the Future,1985,Adventure|Comedy|Sci-Fi
+34,Terminator 2: Judgment Day,1991,Action|Sci-Fi
+35,Modern Times,1936,Comedy|Drama
+36,Once Upon a Time in the West,1968,Western
+37,Alien,1979,Horror|Sci-Fi
+38,The Pianist,2002,Biography|Drama|Music
+39,The Departed,2006,Crime|Drama|Thriller
+40,Gladiator,2000,Action|Adventure|Drama
+41,Apocalypse Now,1979,Drama|War|Adventure
+42,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Comedy|Satire
+43,The Great Dictator,1940,Comedy|Drama|Satire
+44,Memento,2000,Crime|Mystery|Thriller
+45,Rashomon,1950,Drama|Mystery|Crime
+46,Chinatown,1974,Crime|Drama|Mystery
+47,The Third Man,1949,Film-Noir|Mystery
+48,North by Northwest,1959,Action|Adventure|Mystery
+49,Vertigo,1958,Drama|Mystery|Romance
+50,The Apartment,1960,Comedy|Drama|Romance
+51,Rear Window,1954,Crime|Drama|Mystery
+52,A Clockwork Orange,1971,Crime|Drama|Sci-Fi
+53,Blade Runner,1982,Sci-Fi|Thriller
+54,Taxi Driver,1976,Crime|Drama|Thriller
+55,"The Good, the Bad and the Ugly",1966,Western
+56,The Graduate,1967,Comedy|Drama|Romance
+57,Heat,1995,Crime|Drama|Thriller
+58,Amélie,2001,Comedy|Romance|Fantasy
+59,Pan's Labyrinth,2006,Drama|Fantasy|War
+60,The Social Network,2010,Biography|Drama
+61,The Breakfast Club,1985,Comedy|Drama
+62,Raging Bull,1980,Biography|Drama|Sport
+63,The Princess Bride,1987,Adventure|Family|Fantasy
+64,Babylon,1980,Drama
+65,The Big Lebowski,1998,Comedy|Crime
+66,The Truman Show,1998,Comedy|Drama|Sci-Fi
+67,The Handmaiden,2016,Drama|Mystery|Romance
+68,No Country for Old Men,2007,Crime|Drama|Thriller
+69,There Will Be Blood,2007,Drama
+70,The Sting,1973,Crime|Drama|Comedy
+71,The Third Man (dup),1949,Film-Noir|Mystery
+72,The Great Escape,1963,Adventure|Drama|History
+73,The Bridge on the River Kwai,1957,Adventure|Drama|War
+74,The Wizard of Oz,1939,Adventure|Family|Fantasy
+75,The Great Dictator (dup),1940,Comedy|Drama|Satire
+76,Paths of Glory,1957,Drama|War
+77,The Grapes of Wrath,1940,Drama
+78,My Neighbor Totoro,1988,Animation|Family|Fantasy
+79,Rashomon (dup),1950,Drama|Mystery|Crime
+80,Die Hard,1988,Action|Thriller
+81,Oldboy,2003,Action|Drama|Mystery
+82,Das Boot,1981,Adventure|Drama|Thriller
+83,The Thing,1982,Horror|Sci-Fi|Thriller
+84,The Seventh Seal,1957,Drama|Fantasy
+85,Wild Strawberries,1957,Drama
+86,Ikiru,1952,Drama
+87,On the Waterfront,1954,Crime|Drama
+88,Sunset Boulevard,1950,Drama|Film-Noir
+89,Rebecca,1940,Drama|Mystery|Romance
+90,The Maltese Falcon,1941,Crime|Film-Noir|Mystery
+91,Touch of Evil,1958,Crime|Drama|Film-Noir
+92,Paths of Glory (dup2),1957,Drama|War
+93,The Exorcist,1973,Horror
+94,The Shining,1980,Horror|Drama|Mystery
+95,Citizen Kane,1941,Drama|Mystery
+96,Lawrence of Arabia,1962,Adventure|Biography|Drama
+97,The Bridge on the River Kwai,1957,Adventure|Drama|War
+98,Double Indemnity,1944,Crime|Drama|Film-Noir
+99,Annie Hall,1977,Comedy|Romance
+100,Some Like It Hot,1959,Comedy|Romance
