@@ -1,8 +1,8 @@
-site_name: Pipeline Medalhão - Filmes (Databricks + Delta)
+
+site_name: Pipeline Databricks Delta Lake
 nav:
-  - Início: index.md
+  - Home: index.md
+  - Arquitetura: arquitetura.md
   - Pipeline: pipeline.md
-  - Delta: delta.md
-  - Modelo ER: modelo_er.md
-theme:
-  name: material
+  - Databricks Job: databricks_job.md
+  - Contato: contato.md
